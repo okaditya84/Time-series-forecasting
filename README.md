@@ -14,6 +14,15 @@ My approach is described as follows:
 - Validating the results with the actual analysis of 20th December so found earlier.
 - Repeating these steps for 19th and 20th december 2023 as test and validating data respectively.
 
+#### Directories overview:
+- extracted important : AQI Dataset for ashok nagar.
+- 19decto20Dec: extracted data for 19th and 20th december, analysis of AQI on 19th and 20th december.
+- 31decto31Jan: extracted data for 31st december and 1st January, analysis of AQI.
+- Two images for the output of Gemma:7b
+- requirements.txt for installation and testing.
+
+
+
 ## Reference materials
 
 [AQI Formulation](https://www.pranaair.com/blog/what-is-air-quality-index-aqi-and-its-calculation/) for understanding what is AQI, what are it's parameters and sub indices.
