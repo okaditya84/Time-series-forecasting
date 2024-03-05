@@ -1,5 +1,5 @@
 
-# Time Series Forecasting using LLMs
+# Time Series Forecasting for AQi using LLMs
 
 This github repository contains an implementation of time series forecasting using open source LLMs. In this case, I have worked with [![Gemma:7b](https://huggingface.co/google/gemma-7b)](https://huggingface.co/google/gemma-7b) and ollama running locally.
 
